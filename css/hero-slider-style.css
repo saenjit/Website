@@ -40,8 +40,12 @@ Todd Edits
 
 .positionsTable{
     font-size: 20px;
+    background: #7e7a88;
 }
 
+.positionsTableTitle{
+    font-weight: bold;
+}
 
 
 
